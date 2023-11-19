@@ -1,3 +1,4 @@
+//Zadanie 4 Magdalena Klarzyńska
 import java.util.Scanner;
 //Zmiana nazwy pliku, aby nazywał się tak samo jak utworzona klasa
 public class Student {
